@@ -1,8 +1,7 @@
 # Flipkart Price Tracker
 Flipkart Product Price Tracker is simple web scraper application that takes in user preferred product on Flipkart to track price and send an email notification when price has fallen down.  
 
-* How To Run
-  * Now To run  
+* How To Run 
     * [windows] `virtualenv env` or  [linux] `python -m venv name-env` 
     * `source env/bin/activate`
     * `pip install -r requirements.txt`

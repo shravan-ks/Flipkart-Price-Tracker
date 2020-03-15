@@ -71,7 +71,7 @@ class Main:
         # strip_price = price[1:]
         self.price = int(raw_price.replace(',', ''))
         
-        print('Product Name: ₹', self.title)
+        print('Product Name: ', self.title)
         print('Product Flipkart Price: ₹',self.price)
         print('Product Wished Price: ₹',self.wished_price)
         
